@@ -346,4 +346,16 @@ div.inline {font-size:0;}
 		text-align: center;
 		color: #000000;
 	}
+	.rectengle13 img {
+		position: absolute;
+		margin-top: 0px;
+		margin: 4px -240px;
+		z-index: -1;
+	}
+	.rectengle13_2 img {
+		position: absolute;
+		margin-top: 0px;
+		margin: -66px -1094px;
+		z-index: -2;
+		}
 }
